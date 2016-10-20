@@ -6,7 +6,7 @@ Config parser
 Запуск демки.
 
 Терминал №1:
-$ node ./congig-parser-server/server.js
+node ./config-parser-server/server.js
 
 Терминал №2:
-$ node ./samples/demo.js
+node ./samples/demo.js
